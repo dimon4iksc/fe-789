@@ -1,0 +1,38 @@
+.header {
+    background-color: yellowgreen;
+}
+.header-navigation {
+}
+.header-logo {
+}
+.header-list {
+}
+.header-item {
+}
+.header-link {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 1.33;
+    color: #FFFFFF;
+}
+.header-tel {
+}
+.header-button {
+}
+.hero {
+}
+.hero-list {
+}
+.hero-item {
+}
+.hero-link {
+}
+.hero-pre-title {
+}
+.hero-title {
+}
+.hero-after-title {
+}
