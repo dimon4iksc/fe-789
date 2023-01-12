@@ -14,10 +14,13 @@
 .header-navigation{
 
 }
+
 .header-logo {
 }
+
 .header-list {
 }
+
 .header-item {
 }
 
@@ -56,6 +59,9 @@
 
                         /*main*/
 
+.main{
+    background-color: aqua;
+}
 
 .hero {
 }
@@ -232,4 +238,201 @@
     letter-spacing: 0.09em;
     text-transform: uppercase;
     color: #FFFFFF;
+}
+
+/*school*/
+
+.school {
+}
+
+.school-list {
+}
+
+.school-item {
+}
+
+.school-span {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 57px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #303030;
+}
+
+.school-pre {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 15px;
+    text-align: center;
+    color: #303030;
+}
+
+.school-pre-after {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #303030;
+}
+
+.school-title {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 49px;
+    letter-spacing: 0.05em;
+    color: #303030;
+}
+
+.school-after {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.67;
+    letter-spacing: 0.02em;
+    color: #555555;
+}
+
+.barbers {
+}
+
+.barbers-pre-after {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #303030;
+}
+
+.barbers-title {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 49px;
+    letter-spacing: 0.05em;
+    color: #303030;
+}
+
+.barbers-list {
+}
+
+.barbers-item {
+}
+
+.barbers-pre-title {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #303030;
+    }
+
+.barbers-after {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FF6C00;
+}
+
+.barbers-photo {
+}
+
+.barbers-photo-after {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #303030;
+}
+
+.barbers-photo-list {
+}
+
+.barbers-photo-item {
+}
+
+.main-booking {
+}
+
+.booking-title {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 49px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+}
+
+.main-contacts {
+}
+
+.contacts-title {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 49px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+}
+
+.contacns-address {
+}
+
+.contacts-list {
+}
+
+.contacts-item {
+}
+
+.contacts-link {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.67;
+    letter-spacing: 0.02em;
+    color: #9DA4BD;
+}
+
+.contacts-pre-after {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.contacts-after {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.67;
+    letter-spacing: 0.02em;
+    color: #9DA4BD;
 }
